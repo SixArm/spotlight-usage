@@ -1,0 +1,16 @@
+#!/bin/sh
+#
+# Show the current OS X Spotlight search tool indexer usage.
+#
+# Syntax:
+#
+#
+# Program: spotlight-usage
+# Version: 1.0.0
+# Created: 2014-03-06
+# Updated: 2015-01-25
+# License: GPL
+# Contact: Joel Parker Henderson (joel@joelparkerhenderson.com)
+##
+set -euf
+fs_usage -w -f filesys mdworker
