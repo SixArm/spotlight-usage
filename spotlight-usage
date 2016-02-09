@@ -1,9 +1,10 @@
 #!/bin/sh
 #
-# Show the current OS X Spotlight search tool indexer usage.
+# Spotlight search tool script to show the current indexer usage.
 #
 # Syntax:
 #
+#     spotlight-usage
 #
 # Program: spotlight-usage
 # Version: 1.0.0
