@@ -1,6 +1,7 @@
 #!/bin/sh
 #
-# Spotlight search tool script to show the current indexer usage.
+# Spotlight search tool:
+# shell script to show the current indexer usage.
 #
 # Syntax:
 #
